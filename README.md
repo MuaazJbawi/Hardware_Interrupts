@@ -39,11 +39,3 @@ In case of errors or unexpected behavior:
 - Ensure that the correct pin is being used for the external interrupt.
 - Use the `assert_failed` function for debugging assertions.
 
-## Contributing
-
-Contributions to this project are welcome. Please adhere to standard coding conventions and provide documentation for any changes.
-
-
----
-
-For further details or support, refer to the STM32 HAL documentation or contact the project maintainers.
