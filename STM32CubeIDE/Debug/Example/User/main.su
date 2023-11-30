@@ -1,0 +1,4 @@
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/GPIO_EXTI/Src/main.c:33:5:int main()	8	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/GPIO_EXTI/Src/main.c:49:6:static void SystemConfig::SystemClock_Config()	96	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/GPIO_EXTI/Src/main.c:103:6:static void SystemConfig::EXTI0_IRQHandler_Config()	32	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/GPIO_EXTI/Src/main.c:124:17:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static
